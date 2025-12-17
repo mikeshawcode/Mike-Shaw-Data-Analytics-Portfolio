@@ -13,7 +13,7 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 |---------|--------|-------|-----------------|
 | [Sales Forecasting](#1-superstore-sales-forecasting) | Time Series, Forecasting, EDA | Python, Prophet, Pandas | Predicted $12K weekly revenue with 7-day forecast |
 | [NFL Receiving Analysis](#2-nfl-receiving-analytics) | Web Scraping, Sports Analytics, Comparative Analysis | Python, BeautifulSoup, Seaborn | Identified target distribution across 6 teams |
-| [Fitness Tracker Analysis](#3-fitbit-activity-analysis) | Statistical Analysis, Correlation, Health Analytics | Python, Regression Analysis | Validated steps-to-calories relationship for 30+ users |
+| [Fitness Tracker Analysis](#3-fitbit-activity-analysis) | Statistical Analysis, Correlation, Health Analytics | Python, Regression Analysis | Validated steps-to-calories relationship for 450+ users |
 
 ---
 
