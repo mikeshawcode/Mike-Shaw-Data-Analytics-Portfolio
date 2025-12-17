@@ -122,17 +122,3 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 ✅ **Impact-Oriented:** Every analysis answers "so what?" and "now what?"
 
 ---
-
-## 📫 Let's Connect
-
-I'm currently exploring analytics opportunities at ServiceNow, particularly in marketing analytics and business intelligence.
-
-**Contact:**
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 💻 GitHub: [github.com/yourusername]
-- 📁 Full Portfolio: [yourportfolio.com]
-
----
-
-**Last Updated:** December 2024
