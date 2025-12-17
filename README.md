@@ -62,7 +62,7 @@ Three end-to-end analytics projects demonstrating Python, SQL, time series forec
 **Problem:** What's the relationship between daily steps and calories burned?
 
 **Approach:**
-- Analyzed Fitbit activity data across 457+ users
+- Analyzed Fitbit activity data across 457 users
 - Analysis: steps (independent) vs calories (dependent)
 - Visualized correlation with confidence intervals
 
