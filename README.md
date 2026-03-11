@@ -35,7 +35,7 @@ Three end-to-end analytics projects demonstrating Python, time series forecastin
 
 **Tools:** Python, Pandas, Prophet, Matplotlib, Seaborn
 
-[View Code](https://github.com/mikeshawcode/Mike-Shaw-Data-Analytics-Portfolio/blob/main/Superstore_Dataset.ipynb)
+[View Code](https://github.com/mikeshawcode/Mike-Shaw-Data-Analytics-Portfolio/blob/main/Superstore_Dataset_v2.ipynb)
 ---
 
 ## 2. NFL Receiving Analytics
