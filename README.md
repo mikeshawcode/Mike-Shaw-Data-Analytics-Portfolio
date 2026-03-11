@@ -10,7 +10,7 @@ Two end-to-end analytics projects demonstrating Python, SQL, time series forecas
 | Project | Skills | Tools | Business Impact |
 |---------|--------|-------|-----------------|
 | [Sales Forecasting](#1-superstore-sales-forecasting) | Time Series, Forecasting, EDA | Python, Prophet, Pandas | Predicted $12K weekly revenue with validated 90-day holdout |
-| [Fitness Tracker Analysis](#2-fitbit-activity-analysis) | SQL, Statistical Analysis, Segmentation | Python, SQLite, Seaborn | Quantified steps-to-calories relationship across 30+ users |
+| [Fitness Tracker Analysis](#2-fitbit-activity-analysis) | SQL, Statistical Analysis, Segmentation | Python, SQLite, Seaborn | Quantified steps-to-calories relationship across 30+ users 
 
 ---
 
