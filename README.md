@@ -38,26 +38,7 @@ Three end-to-end analytics projects demonstrating Python, time series forecastin
 [View Code](https://github.com/mikeshawcode/Mike-Shaw-Data-Analytics-Portfolio/blob/main/Superstore_Dataset_v2.ipynb)
 ---
 
-## 2. NFL Receiving Analytics
-
-**Problem:** Which Patriots receivers are most efficient, and how do they compare league-wide?
-
-**Approach:**
-- Scraped 2025 NFL receiving stats from Pro Football Reference
-- Analyzed target distribution, catch rates, first down conversions for Patriots
-- Compared against 5 other teams (SEA, IND, DEN, PHI, LAR)
-
-**Results:**
-- **Patriots Target concentration:** Stefon Diggs has the highest amount of targets on the Patriots
-- **Patriots Efficiency leader:** Kayson Bouttee converts ~80% catches to first downs
-- **Patriots Ball Distribution:** Patriots have the most amount of distribution of targets of the top teams in the league
-
-**Tools:** Python, BeautifulSoup, Pandas, Seaborn
-
-[View Code](https://github.com/mikeshawcode/Data_Analytics_Portfolio/blob/main/PatriotsProject.ipynb)
----
-
-## 3. Fitbit Activity Analysis
+## 2. Fitbit Activity Analysis
 
 **Problem:** What's the relationship between daily steps and calories burned?
 
